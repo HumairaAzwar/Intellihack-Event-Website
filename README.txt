@@ -13,4 +13,4 @@ Languages: php, html
 c.
 
 copy the folder to htdocs.
-make sure to start apache services in XAMPP and open the intellihack folder, then u will be directed to the website.
+make sure to start apache services in XAMPP and open the intellihack folder, then you will be directed to the website.
